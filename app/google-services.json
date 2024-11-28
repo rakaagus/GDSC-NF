@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488561753102",
+    "project_id": "gdsc-nf",
+    "storage_bucket": "gdsc-nf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488561753102:android:2799ca5cfc6c5a5db0505f",
+        "android_client_info": {
+          "package_name": "com.nurulfikri.gdscnf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488561753102-araauak9b8re5s5scplv4tldbipvaotm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nurulfikri.gdscnf",
+            "certificate_hash": "881ad062ba8f946a014094f1a50f3fafc0df3108"
+          }
+        },
+        {
+          "client_id": "488561753102-0af8m6je7nmnn3cfg0e72naddjas4feq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5P2xcdYhkiLc8l_6hD_cKuvCI7HDf2Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488561753102-0af8m6je7nmnn3cfg0e72naddjas4feq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GDSC NF</string>
+
+    <!--Onboarding-->
+    <string name="title_onboard_1">Find New Experience</string>
+    <string name="title_onboard_2">Improve your Skills</string>
+    <string name="title_onboard_3">Join our Community</string>
+    <string name="desc_onboard_1">Get new experience with our GDSC App</string>
+    <string name="desc_onboard_2">Our app will turn the learning process into the incredible journey</string>
+    <string name="desc_onboard_3">Join our GDSC NF Community and get the best workshops for free</string>
+    <string name="bs_title">Welcome Back to </string>
+    <string name="bs_desc">Join our GDSC Community and get the best Workshops for free</string>
+
+    <!--Home-->
+    <string name="home_welcome">Welcome! \n</string>
+
+</resources>
